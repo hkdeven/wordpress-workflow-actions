@@ -1,6 +1,8 @@
 # GitHub workflow actions for WordPress!
 
-Here is a collection of GitHub workflow actions to help with common needs for WordPress development. Specific documentation for each Action is in the `README.md` file in its subdirectory.
+Here is a collection of GitHub workflow actions to help with common needs for WordPress development. Specific documentation for each Action is in the `README.md` file in its subdirectory.  
+
+:microphone: Shout-out to [Helen Hou-Sandi][6] for originating this repo (she's awesome, check her out :point_left:).
 
 [More information about GitHub Actions][3]
 
@@ -20,7 +22,7 @@ To read up on our coding style and general contribution guide, have a look at [C
 
 ## LICENSE    
 
-[Alliedbuildings.com][1] website front end and tools Copyright :copyright: 2016 Allied Steel Buildings.
+Copyright :copyright: 2019 Allied Steel Buildings.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License][4] for more details.
 
@@ -41,3 +43,4 @@ We love open source. :octocat: :heart:
 [3]: https://github.com/features/actions/
 [4]: ./LICENSE.md
 [5]: https://github.com/hkdeven/wordpress-workflow-actions/blob/master/README.md
+[6]: https://github.com/helen
